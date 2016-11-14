@@ -1,0 +1,5 @@
+services:
+  embed_view.twig.embed_view_extension:
+    class: Drupal\embed_view\Twig\EmbedViewExtension
+    tags:
+      - { name: twig.extension }

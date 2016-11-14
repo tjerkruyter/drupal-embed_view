@@ -1,0 +1,5 @@
+name: Embed view
+type: module
+description: Embed view in twig templates
+core: 8.x
+package: Twig Extensions
